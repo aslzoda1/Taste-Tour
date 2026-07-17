@@ -109,6 +109,3 @@
 <p align="center">
 <b>💎 Taste Tour — 𝑫𝒆𝒔𝒊𝒈𝒏𝒆𝒅 𝒇𝒐𝒓 𝒕𝒉𝒆 𝑭𝒍𝒂𝒗𝒐𝒓 💎</b>
 </p>
-
-
-aslzoda
