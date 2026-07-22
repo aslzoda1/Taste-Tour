@@ -24,6 +24,7 @@
 </p>
 
 😋 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘: 𝑻𝒂’𝒎𝒏𝒊 𝒉𝒊𝒔 𝒆𝒕𝒊𝒏𝒈
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/e9637c7b-e589-484c-9f0b-f46db571bde6" />
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
